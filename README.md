@@ -13,7 +13,7 @@
   <!--<img align="right" alt="pic" height="150" style="border-radius:50px;" src="">-->
 </div>
   
-##max-width: 100%;
+##
   
 <div> 
   

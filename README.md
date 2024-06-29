@@ -21,7 +21,7 @@
   
   <a href="https://instagram.com/dianluca1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/dian-luca-579353314/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://discord.gg/V7VbRS6CRS" target="_blank"><img src="https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=discord" target="_blank"></a> 
+  <a href="https://discord.gg/V7VbRS6CRS" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   
 
 </div>
